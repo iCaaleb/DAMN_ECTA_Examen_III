@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023446328955",
+    "project_id": "appchat-414d4",
+    "storage_bucket": "appchat-414d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023446328955:android:81fe30116e7651afa024de",
+        "android_client_info": {
+          "package_name": "com.example.ecta_ex03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvVYVdB0JxNJtrEhddi6M9YI4CHgqWoCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
